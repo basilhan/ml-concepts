@@ -1,8 +1,9 @@
 # Machine Learning Concepts
 
 ### Preprocessing
+Feature Selection  
+Feature Extraction  
 Feature Scaling  
-Dimensionality Reduction  
 
 ### Basic Modeling
 [Hypothesis Function](https://nbviewer.jupyter.org/github/basilhan/ml-concepts/blob/master/PythonHypothesisFunction.ipynb)  
